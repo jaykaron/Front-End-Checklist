@@ -176,7 +176,7 @@ Minimum required xml markup for the `browserconfig.xml` file is as follows:
 
 ### HTML tags
 
-* [ ] **Language attribute:** ![High][high_img] The `lang` attribute of your website is specified and related to the language of the current page.
+* [x] **Language attribute:** ![High][high_img] The `lang` attribute of your website is specified and related to the language of the current page.
 
 ```html
 <html lang="en">
