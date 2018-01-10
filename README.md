@@ -55,7 +55,7 @@ Some resources possess an emoticon to help you understand which type of content 
 
 ### Meta tag
 
-* [ ] **Doctype:** ![High][high_img] The Doctype is HTML5 and is at the top of all your HTML pages.
+* [x] **Doctype:** ![High][high_img] The Doctype is HTML5 and is at the top of all your HTML pages.
 
 ```html
 <!doctype html> <!-- HTML5 -->
@@ -65,14 +65,14 @@ Some resources possess an emoticon to help you understand which type of content 
 
 *The next 3 meta tags (Charset, X-UA Compatible and Viewport) need to come first in the head.*
 
-* [ ] **Charset:** ![High][high_img] The charset (UTF-8) is declared correctly.
+* [x] **Charset:** ![High][high_img] The charset (UTF-8) is declared correctly.
 
 ```html
 <!-- Set character encoding for the document -->
 <meta charset="utf-8">
 ```
 
-* [ ] **X-UA-Compatible:** ![Medium][medium_img] The X-UA-Compatible meta tag is present.
+* [x] **X-UA-Compatible:** ![Medium][medium_img] The X-UA-Compatible meta tag is present.
 
 ```html
 <!-- Instruct Internet Explorer to use its latest rendering engine -->
@@ -81,14 +81,14 @@ Some resources possess an emoticon to help you understand which type of content 
 
 > * 📖 [Specifying legacy document modes (Internet Explorer)](https://msdn.microsoft.com/en-us/library/jj676915(v=vs.85).aspx)
 
-* [ ] **Viewport:** ![High][high_img] The viewport is declared correctly.
+* [x] **Viewport:** ![High][high_img] The viewport is declared correctly.
 
 ```html
 <!-- Viewport for responsive web design -->
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 ```
 
-* [ ] **Title:** ![High][high_img] A title is used on all pages (SEO: Google calculates the pixel width of the characters used in the title, and it cuts off between 472 and 482 pixels. The average character limit would be around 55-characters).
+* [x] **Title:** ![High][high_img] A title is used on all pages (SEO: Google calculates the pixel width of the characters used in the title, and it cuts off between 472 and 482 pixels. The average character limit would be around 55-characters).
 
 ```html
 <!-- Document Title -->
@@ -98,7 +98,7 @@ Some resources possess an emoticon to help you understand which type of content 
 > * 📖 [Title - HTML - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title)
 > * 🛠 [SERP Snippet Generator](https://www.sistrix.com/serp-snippet-generator/)
 
-* [ ] **Description:** ![High][high_img] A meta description is provided, it is unique and doesn't possess more than 150 characters.
+* [x] **Description:** ![High][high_img] A meta description is provided, it is unique and doesn't possess more than 150 characters.
 
 ```html
 <!-- Meta Description -->
